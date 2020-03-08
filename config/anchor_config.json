@@ -1,0 +1,17 @@
+{
+  "deposit": {
+    "DAI": {
+      "How": "Just send the amount to this address",
+      "ETA": 240
+    },
+    "ETH": {
+      "How": "Just send the amount to this address",
+      "ETA": 240
+    }
+  },
+  "withdraw": {
+    "DAI": {
+      "PLOP": 2
+    }
+  }
+}
